@@ -1,1 +1,1 @@
-# Tasca-3-Prompt-engineering-i-metaprompts-aprendre-a-demanar-b-a-la-IA-Maxim
+# Projecte Intermodular/Projecte 3-Maxim Slobodyan
